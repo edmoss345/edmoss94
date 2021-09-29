@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edmoss94
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python and flutter
+- 🌱 I’m currently learning python, javascript and flutter
 - 📫 How to reach me, ed.moss@eemengineering.com
 
 <!---
